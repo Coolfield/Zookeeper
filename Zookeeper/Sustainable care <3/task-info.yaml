@@ -313,5 +313,9 @@ files:
         Zookeeper('zookeeper.zookeeper').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/98/stages/542/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/98/stages/542/implement">JetBrains
+    Academy</a>
+  time: Wed, 21 Oct 2020 18:48:53 UTC
 record: -1
